@@ -11,6 +11,21 @@
 			font-family: sans-serif;
 		</style>
 
-<h1></h1>
+<h1>Packets, Routers, and Redundancy</h1>
+<h2>Packets</h2>
+<p>Data is often far too big to be sent as one whole piece, in such cases, it is sent as packets ranging from hundreds to millons.</p>
+<br>
+<p>These packets each contain a little bit of information, and when sent to your computer they combine to form the orginal thing that your computer requested</p>
+<br>
+<p>Packets only have a bit of information on them: where they are from, where they are going, and ,sometimes, their order number</p>
+<br>
+<h2>Routers<h2>
+<p>Routers help rout packets toward there destination; ferrying the packets onward by choosing the cheapest path for them to get to there destination</p>
+<br>
+<p>Routers often act like traffic managers,if one route is clogged it will send packets to other routes beacuase of this: Packets don't awayls travel the most direct route</p>
+<br>
+<h2>TPS</h2>
+<p>Beacuase of </p>
 </html>
+
 	
